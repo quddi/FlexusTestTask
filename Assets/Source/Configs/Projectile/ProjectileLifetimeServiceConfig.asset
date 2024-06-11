@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcf160c653834fe3b64a8fef9400280b, type: 3}
+  m_Name: ProjectileLifetimeServiceConfig
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  <MinProjectilePositionY>k__BackingField: -1
+  <TimeMultiplier>k__BackingField: 1.5
+  <CollisionVelocityDecrease>k__BackingField: 0.8
+  <MaxCollisionsCount>k__BackingField: 1
+  <DecalLayerMask>k__BackingField:
+    serializedVersion: 2
+    m_Bits: 256
